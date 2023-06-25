@@ -1,0 +1,490 @@
+.page1{
+    max-width: 1440px;
+height: 1024px;
+}
+.menu{
+    margin-top: 12px;
+text-align: center;
+font-size: 18px;
+font-family: Gilroy-Medium;
+}
+.URL1{
+    gap:50px;
+    display: flex;
+}
+.menu1{
+    display: inline-flex;
+    align-items: center;
+    gap: 140px;
+}
+
+.vector1{
+    display:inline-flex;
+    align-items: center;
+   gap: 4px;
+}
+.loginandtryforfree{
+    display: flex;
+align-items: center;
+gap: 24px;
+}
+.tryforfree{
+ 
+    border-radius: 100px;
+background: var(--primary-300-base, #0065FE);
+display: flex;
+width: 142px;
+height: 44px;
+padding: 12px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.optimize{
+    text-align: center;
+    color: #141414;
+text-align: center;
+font-size: 32px;
+font-family: Gilroy-Bold;
+line-height: 96px;
+}
+.vector3{
+    margin-top: -110px;
+}
+.URLs{
+    text-decoration: #0065FE;
+}
+.personalize{
+    color: var(--text-color-main-text, #141414);
+text-align: center;
+font-size: 18px;
+font-family: Gilroy-Medium;
+line-height: 28px;
+}
+.signandlearn{
+    display: flex;
+    width: 282px;
+    height: 44px;
+  
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 630px;
+   font-size: 15px;
+ 
+}
+.signup{
+    border-radius: 100px;
+background: var(--primary-300-base, #0065FE);
+padding: 12px 24px;
+width: 82px;
+font-size: 16px;
+position:relative;
+right:90px;
+
+}
+.signup2{
+    position:absolute;
+    top: -17px;
+    left: 40px;
+}
+.learnmore{
+    text-decoration-color: blue;
+}
+.dash{
+     margin-top: 100px;
+}
+.thevectors{
+    position: relative;
+    left: 400px;
+}
+.thelines{
+    position: relative;
+    left:400px;
+    display:flex;
+}
+.line1{
+    position: relative;
+    top: -75px;
+    right: -23px;
+}
+.line2{
+    position: relative;
+    top: -75px;
+    right: -74px;
+}
+.line3{
+    position: relative;
+    top: -75px;
+    right: -125px;
+}
+.line4{
+    position: relative;
+    top:-70px;
+    right: -170px;
+}
+.line5{
+    position: relative;
+    top: -75px;
+    right: -220px;
+}
+.thevector4{
+position: relative;
+right: -330px;
+top: -40px;
+}
+.seam{
+    position: relative;
+    right: -550px;
+    top: -50px;
+}
+
+.ellipse1{
+    position: relative;
+    right: -180px;
+    bottom: -40px;
+}
+.rectangle9{
+    position:relative;
+    bottom: -25px;
+}
+.secondbox{
+    padding: 128px,180px;
+ display: flex;
+}
+.page3{
+    position: relative;
+    bottom: -500px;
+}
+.why{
+    position: relative;
+    right: -130px;
+}
+.line70{
+    position: relative;
+    left: -20px;
+}
+.whychoose{
+    position: relative;
+    top: -70px;
+}
+.Url1{
+    position: relative;
+    right: -200px;
+    top: -5px;
+}
+.link2{
+    position: relative;
+    left: 15px;
+    top: -42px;
+}
+.custom{
+    position: relative;
+    right: -300px;
+}
+.QR{
+    position: relative;
+    bottom: -250px;
+    left: -410px;
+}
+.data{
+    position: relative;
+    bottom: -250px;
+    left: -255px;
+}
+.edit{
+    position: relative;
+    top: -45px;
+    right: -19px;
+}
+.activity{
+    position: relative;
+    top: -45px;
+    right: -19px
+}
+.grids{
+    position: relative;
+    top: -45px;
+    right: -15px
+}
+.price{
+    position: relative;
+    bottom: -300px;
+    right: -550px;
+}
+.line71{
+    position: relative;
+    bottom: -80px;
+    left: -20px;
+}
+.box-3{
+    position: relative;
+    bottom: -350px;
+    right: -150px;
+    display: flex;
+}
+.left-basic{
+    position: relative;
+    right: -15px;
+    bottom: -50px;
+}
+.right-teams{
+    position: relative;
+    left: -15px;
+    bottom: -50px;
+}
+.button3{
+    position: relative;
+    bottom: -400px;
+    right: -550px;
+}
+.url-box{
+ background-color: #091b36 ;
+ width: 1440px;
+ height: 523px;
+}
+.detail-box{
+    text-align: center;
+    
+}
+.paste-url{
+    position: relative;
+    bottom: -125.5px;
+    border-radius: 12px;
+    left: -8px;
+    
+}
+.choose-domain{
+    position: relative;
+    bottom: -145.5px;
+    left: -9px;
+    right: -10px;
+    text-align: center;
+}
+.trim{
+    position: relative;
+    bottom: -150px;
+    display: flex;
+    right: -650px;
+   
+}
+.byclicking{
+    position: relative;
+    bottom: -120px;
+}
+.FAQs7{
+    position: relative;
+    right: -600px;
+    bottom: -70px;
+}
+.faqs70{
+    position: relative;
+    right: -610px;
+    bottom: -0.6px;
+}
+.page5-box{
+    position: relative;
+    top: -1050px;
+    text-align: center;
+    
+}
+.how{
+    position: relative;
+    display: flex;
+    right: -430px;
+}
+.minus{
+    position: relative;
+    right: -310px;
+    top: -46px;
+}
+.url-short{
+    position: relative;
+    top: -50px;
+    left: -10px;
+    
+}
+.isit{
+    position: relative;
+    left: -70px;
+    top: -30px;
+}
+.plus{
+    position: relative;
+    right: -310px;
+    top: -75px;
+    
+}
+.shortened{
+    position: relative;
+    left: -130px;
+    top: -50px;
+}
+.plus1{
+position: relative;
+right: -310px;
+top: -95px;
+}
+.limit{
+    position: relative;
+    left: -95px;
+    top: -65px;
+}
+.icustomize{
+    position: relative;
+    left: -80px;
+    top: -65px;
+}
+.plus2{
+    position: relative;
+    right: -310px;
+    top: -108px;
+    }
+    .cani{
+        position: relative;
+        left: -128px;
+        top: -65px;
+    }
+    .plus3{
+        position: relative;
+        right: -310px;
+        top: -113px;
+        }
+        .plus4{
+            position: relative;
+            right: -310px;
+            top: -113px;
+            }
+            .secure{
+                position: relative;
+                left: -50px;
+                top: -65px;
+            }
+            .plus5{
+                position: relative;
+                right: -310px;
+                top: -115px;
+                } 
+                .QRCODE{
+                    position: relative;
+                    left: -180px;
+                    top: -65px;
+                }
+                .plus6{
+                    position: relative;
+                    right: -310px;
+                    top: -115px;
+                }
+                .API{
+                    position: relative;
+                    left: -40px;
+                    top: -65px;
+                }
+                .plus7{
+                    position: relative;
+                    right: -310px;
+                    top: -125px;
+                }
+                .rect1{
+                    position: relative;
+                    top: -1000px;
+                }
+                .revolutioni{
+                    position: relative;
+                    top: -2300px;
+                    right: -550px;
+                }
+                .Get-Started{
+                    position: relative;
+                    top: -2300px;
+                    right: -690px;
+                }
+                .footer{
+                   position: relative;
+                   top: -2185px;
+                   color: white;
+
+                }
+.page7{
+    position: relative;
+    top: -3170px;
+
+}
+.Group2{
+    position: relative;
+    right: -5000px;
+}
+.Vect{
+    position: relative;
+    right: -200px;
+}
+.sciss{
+    position: relative;
+    right: -230px;
+    top: -26px;
+    
+}
+.feather{
+    position: relative;
+    right: -230px;
+}
+.twitter{
+    position: relative;
+    right: -190px;
+    top: -86px;
+}
+.linkedin{
+    position: relative;
+    right: -270px;
+    top: -58px;
+}
+.facebook{
+    position: relative;
+    right: -310px;
+    top: -30px;
+}
+.firstsection{
+    position: relative;
+    right: -450px;
+   top: -210px;
+}
+.resources{
+    position: relative;
+    right: -450px;
+    top: -160px;
+
+}
+.solutions{
+    position: relative;
+    right: -690px;
+    top: -775px;
+}
+.Features{
+    position: relative;
+    right: -690px;
+    top: -720px;
+}
+.products1{
+    position: relative;
+    right: -900px;
+    top: -1220px;
+
+}
+.legal{
+    position: relative;
+    right: -900px;
+    top: -1120px;
+}
+.Company{
+    position: relative;
+    right: -1100px;
+    top: -1620px;
+}
+.bottom7{
+    display: flex;
+    gap: 10px;
+    position: relative;
+    right: -1000px;
+    top: -1300px;
+    
+}
